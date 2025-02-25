@@ -1,0 +1,28 @@
+Core Java
+1. what are class loaders in java ?
+2. OOps concepts
+	a. what is dimanod problem in java ? 
+3. overriding 
+	a. can we override static methods
+	b. can we override final methods
+	c. in overriding if super class method does not throw exception can we throw checked expception for sub class method.
+	d. in overriding if super class method does not throw exception can we throw unchecked expception for sub class method.
+	e. in overriding if super class method throw checked exception can we throw checked same/subclass expception for sub class method.
+	f. in overriding if super class method throw unchecked exception can we throw unchecked same/subclass expception for sub class method.
+4. what is garbage collection in java ?
+5. what is final, finally , finalize() ?
+6. why String is immutable ?
+7. if string s1="abc" and string s2=new String("abc") where these values will be stored ?
+8. if string s1="abc" and string s2=new String("abc") what will be output if (s1==s2) // true or false and why ?
+9. What are the collections you used ?
+10. can you tell internal Mechanism for HashSet? how elements insert with out duplicate ?
+11. can you tell internal Mechanism for HashMap?
+12. What is Hash collision? how can we fix it ?
+13. What are comparable and comparator in java ?
+14. Thread life cycle ?
+15. How do you create Executors in Thread?
+16. what is CompletableFuture in thread ?
+17. what are runAsync and supplyAsync() methods in CompletableFuture ?
+18. what is a deadLock ? and how do you handle it ?
+19. How to use Serialization in java? where do you use in your project ?
+20. what is the difference between equals() and == operator ?
