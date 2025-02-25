@@ -26,3 +26,4 @@ Core Java
 18. what is a deadLock ? and how do you handle it ?
 19. How to use Serialization in java? where do you use in your project ?
 20. what is the difference between equals() and == operator ?
+21. what is fail fast and fail safe in java ?
