@@ -28,3 +28,6 @@ Core Java
 20. what is the difference between equals() and == operator ?
 21. what is fail fast and fail safe in java ?
 22. what are transient and volatile in java ?
+23. Equals() and HashCode() contract ?
+24. i have a static method in the class A and am creating object as A a=null; now when i call a.static() method will it give any error ?
+25. ArrayList and LinkedList difference ?
